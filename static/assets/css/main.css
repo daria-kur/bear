@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: ttn;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.display {
+    display: none;
+}
+
+.main {
+    text-align: center;
+    margin-top: 4%;
+}
+
+.mainText {
+    font-family: ttnB;
+    font-size: 40px;
+}
+
+.secondText {
+    font-size: 20px;
+}
+
+.form {
+    margin-top: 50px;
+}
+
+.formLabel {
+    cursor: pointer;
+    padding: 12px 45px;
+    background-color: #2439F3;
+    border-radius: 3px;
+}
+
+.formSpan {
+    color: white;
+    font-size: 20px;
+}
+
+.fileUp {
+    outline: 0;
+    opacity: 0;
+    pointer-events:none;
+    -webkit-user-select: none;
+    user-select:none;
+    display: none;
+}
+
+.formSubmit {
+    padding: 10px 40px;
+    border: none;
+    color: white;
+    font-family: ttnB;
+    font-size: 20px;
+    background-color: #2439F3;
+    cursor: pointer;
+}

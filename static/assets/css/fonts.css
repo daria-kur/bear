@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "ttn";
+    src: url('../fonts/TTNorms-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ttnB';
+    src: url('../fonts/TTNorms-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    }
